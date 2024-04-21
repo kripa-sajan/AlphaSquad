@@ -7,9 +7,9 @@ The template repository for definehack2024
 EMOBOT-This is a Virtual Companion for Emotional Well-being  which aims to create a platform offering personalized emotional support, appointment scheduling with therapists, and multilingual assistance, prioritizing user privacy. Utilizing React.js, Node.js, Firebase, and NLP, it targets individuals seeking mental health support, fostering inclusivity and resilience.
 
 ### Team Members
-[1.Team Member 1] https://github.com/kripa-sajan  
-[2.Team Member 2] https://github.com/MahithaMariam
-[3.Team Member 3] https://github.com/PournamiN
+[1.Kripa Anna Sajan] https://github.com/kripa-sajan  
+[2.Mahitha Mariam Shiboo] https://github.com/MahithaMariam
+[3.Pournami] https://github.com/PournamiN
 
 ### Link to Project
 [Embed the live link of project](live_link)
@@ -20,8 +20,8 @@ Embed video of project demo
 
 ### Technologies used
 
-Frontend: React.js, Redux (optional)
-Backend: Node.js, Express.js, Firebase (Firestore)
+Frontend:HTML,CSS,javascript React.js(optional)
+Backend: Node.js, Firebase (Firestore)
 Natural Language Processing (NLP): Sentiment Analysis, Google Cloud Natural Language API
 Authentication and Authorization: Firebase Authentication, JSON Web Tokens (JWT)
 Third-Party Integrations: Google Calendar API, Video Conferencing APIs
