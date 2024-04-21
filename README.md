@@ -16,7 +16,7 @@ EMOBOT-This is a Virtual Companion for Emotional Well-being  which aims to creat
 
 ### How it Works ?
 Explaining the working of project  
-Embed video of project demo
+
 
 ### Technologies used
 
