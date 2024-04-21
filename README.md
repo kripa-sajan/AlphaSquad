@@ -25,7 +25,7 @@ Backend: Node.js, Express.js, Firebase (Firestore)
 Natural Language Processing (NLP): Sentiment Analysis, Google Cloud Natural Language API
 Authentication and Authorization: Firebase Authentication, JSON Web Tokens (JWT)
 Third-Party Integrations: Google Calendar API, Video Conferencing APIs
-Deployment and Hosting: Firebase Hosting, Heroku, AWS, Google Cloud Platform
+Deployment and Hosting: Firebase Hosting,MongoDB, Google Cloud Platform
 
 ### How to configure
 
